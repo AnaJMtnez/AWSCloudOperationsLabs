@@ -1,1 +1,0 @@
-# AWSCloudOperationsLabs LAB2
